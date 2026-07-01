@@ -1,0 +1,1 @@
+C:\Users\halle\Documents\iCog\Trainings\rust\rust\Neural-network-implementation-using-rust\neural_net\target\debug\neural_net.exe: C:\Users\halle\Documents\iCog\Trainings\rust\rust\Neural-network-implementation-using-rust\neural_net\src\main.rs
